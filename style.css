@@ -1,0 +1,5 @@
+input:hover{
+    text-decoration: wavy;
+    background-color: cadetblue;
+    cursor: crosshair;
+}
